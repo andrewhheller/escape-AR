@@ -1,5 +1,7 @@
 # Welcome to Escape ARoom
 
+![escape ARoom project image](https://github.com/andrewhheller/escape-AR/blob/master/escape-a-room-project-image.png)
+
 An augmented reality escape room. Designed to be played on your own or in teams.
 Find the clues and solve the puzzles to escape the room with the fastest time.
 You don't need to leave the comfort of your home to jump into another world!
