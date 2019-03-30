@@ -4,6 +4,21 @@ An augmented reality escape room. Designed to be played on your own or in teams.
 Find the clues and solve the puzzles to escape the room with the fastest time.
 You don't need to leave the comfort of your home to jump into another world!
 
+### Technologies Used
+* Node
+* Express
+* PostgreSQL
+* React
+* Redux
+* Sockets.io
+* WebGL
+* three.js
+* AR.js
+* Webpack
+* Babel
+* TDD (Mocha, Chai, SuperTest, Travis)
+
+
 ### Configuration
 
 install node and npm
@@ -17,8 +32,11 @@ run npm install
 
 ###### locally
 
-run npm run start:dev
-go to https://localhost:3000
+* in terminal, navigate to desired directory
+* git clone https://github.com/andrewhheller/escape-AR
+* cd escape-AR
+* npm run start:dev
+* go to https://localhost:3000
 
 ###### online
 
